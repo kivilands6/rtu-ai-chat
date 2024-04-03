@@ -18,7 +18,6 @@ function App() {
   const [count, setCount] = useState(0)
 
   const openAIApiKey = import.meta.env.VITE_OPENAI_API_KEY
-  console.log(hello)
   const sbApiKey = import.meta.env.VITE_SUPABASE_API
   const sbUrl = import.meta.env.VITE_SUPABASE_URL
   const embeddings = new OpenAIEmbeddings({openAIApiKey})
