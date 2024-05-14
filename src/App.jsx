@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import sendLogo from './assets/send.svg'
-import './App.css'
+import rtuLogo from './assets/rtu-logo.svg'
 import Header from './components/Header'
 
 import { ChatOpenAI } from '@langchain/openai';
@@ -26,7 +26,7 @@ function App() {
   const standaloneQeustionTemplate = 'Given a question, convert it to a standalone question. question: {question} standalone question:'
   const standaloneQuestionPrompt = PromptTemplate.fromTemplate(standaloneQeustionTemplate)
 
-  const asnwerTemplate = `You are a helpful support bot who can answer questions about universities based on context provided. Try to find the answer in the context. If you really don't know the answer, say "I'm sorry, I don't know the answer to that." And direct the questioner to email kivilands6@gmail.com. Don't try to make up an answer. Always spek as if you were chatting to a friend.
+  const asnwerTemplate = `You are a helpful support bot who can answer questions about universities and the MERIT program based on context provided. Try to find the answer in the context. If you really don't know the answer, say "I'm sorry, I don't know the answer to that." And direct the questioner to email kivilands6@gmail.com. Don't try to make up an answer. Always spek as if you were chatting to a friend.
   context: {context}
   question: {question}
   answer: `
@@ -84,29 +84,13 @@ function App() {
 
   return (
     <>
-      <Header />
-      <div>
-        {/* <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a> */}
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
+      
       <main>
+        <Header />
+        <div className="app-cover h-auto mt-16">
           <section class="chatbot-container">
               <div class="chatbot-header">
-                  <img src="images/logo-scrimba.svg" class="logo"/>
-                  <p class="sub-heading">Knowledge Bank</p>
+                  <p class="sub-heading">Ask a question</p>
               </div>
               <div class="chatbot-conversation-container" id="chatbot-conversation-container">
               </div>
@@ -120,6 +104,7 @@ function App() {
                   </button>
               </form>
           </section>
+        </div>
       </main>
     </>
   )

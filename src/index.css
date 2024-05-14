@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 *, *::before, *::after {
   box-sizing: border-box;  
 }
@@ -10,10 +14,10 @@ html, body {
 
 main {    
   background-color: slategrey;
-  background-image: url('images/scrimba-bg.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
   height: 100vh;
+}
+
+.app-cover {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,7 +27,7 @@ main {
 
 .chatbot-container {
   background-color: #171f26;
-  width: 360px;
+  width: 560px;
   min-height: 380px;
   border-radius: var(--border-rad-lg);
   padding: 1em;  
@@ -44,7 +48,7 @@ main {
 }
 
 .chatbot-conversation-container {
-  height: 250px;
+  height: 450px;
   overflow-y: scroll;
   margin: 1em 0;
 }
@@ -59,12 +63,12 @@ main {
 }
 
 .speech {
-  padding: 1em;
-  max-width: 240px; 
-  color: var(--light-text);
-  min-width: 90%;
+  padding: 1em; 
+  color: white;
+  width: fit-content;
   border-radius: var(--border-rad-lg); 
   font-size: 1.07em;
+  max-width: calc(100% - 20px);
 }
 
 .speech:first-child {
@@ -74,13 +78,14 @@ main {
 .speech-ai {
 background: #334959;
   border-top-left-radius: 0;
-  margin: 1.2em 1em 0 0; 
+  margin: 1em 0 0 0; 
 }
 
 .speech-human {
-  margin: 1.2em 0 0 1em; 
-background: #2f4f4f;
-  border-top-right-radius: 0; 
+  margin: 1em 0 0 0; 
+  background: #2f4f4f;
+  border-top-right-radius: 0;
+  margin-left: auto;  
 }
 
 .chatbot-input-container {
@@ -90,12 +95,31 @@ background: #2f4f4f;
 input[type="text"], button {
   background-color: transparent;
   border: 1px solid #586e88;
-  border-radius: var(--border-rad-lg);
+  border-radius: 10px;
+  padding: 1em;
+}
+
+input[type="text"]:focus, button:focus {
+  background-color: transparent;
+  border: 1px solid #586e88 !important;
+  border-radius: 10px;
+  padding: 1em;
+}
+input[type="text"]:active, button:active {
+  background-color: transparent;
+  border: 1px solid #586e88 !important;
+  border-radius: 10px;
+  padding: 1em;
+}
+input[type="text"]:focus-visible, button:focus-visible {
+  background-color: transparent;
+  border: 1px solid #586e88 !important;
+  border-radius: 10px;
   padding: 1em;
 }
 
 input[type="text"] {
-  color: var(--light-text);
+  color: #cccccc;
   width: 100%;
   border-right: 0; 
   border-top-right-radius: 0;

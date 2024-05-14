@@ -1,0 +1,267 @@
+General description
+
+The study programme "Smart, Resilient, and Interconnected Systems" envisions producing future-ready leaders capable 
+of navigating the complexities of a technology-driven world. By instilling a passion for innovation, ethical values, and interdisciplinary collaboration, 
+graduates will drive positive change, contributing to a smarter, more resilient, and interconnected future for society.
+The study program "Smart, Resilient, and Interconnected Systems" aims to equip students with the knowledge, skills, 
+and mindset to innovate and implement solutions increasingly reliant on intelligent and interconnected technologies. 
+This interdisciplinary program will empower students to address complex challenges stemming from implementing digital 
+global developments in various organizational levels and settings for enhanced efficiency, productivity and competitiveness. 
+The graduates will be able to harness the potential of smart technologies, ensure the robustness and adaptability of 
+implemented solutions and foster seamless integration among technical, organizational and social systems. 
+Graduates of this program will be equipped with tools and approaches to identify issues, understand and conduct scientific research, 
+and develop propositions to drive transformative changes across industries. 
+They will contribute to societal and organizational developments by embracing ethical practices in managing cutting-edge technologies.
+Smart Technologies for Decision-Making: The program will explore the latest advancements in AI, machine learning, 
+data analytics, and IoT, enabling students to develop an understanding of how to research, analyze and leverage these technologies 
+for improved process efficiency and effectiveness.
+Developing for Resilience and Sustainability: Students will learn how to design and manage systems that can withstand disruptions, 
+recover from adversity, and contribute to sustainability efforts. The pillar encompasses the exploration of methodologies for risk assessment, 
+quality assurance, failure recovery, and integrating renewable and green technologies.
+Security and Privacy in Connected Systems: Understanding the importance of cybersecurity will be a cornerstone of the program. 
+Students will be equipped with knowledge and skills in implementing robust security measures, safeguarding data privacy, developing 
+legal frameworks and addressing potential threats in interconnected environments.
+Interdisciplinary Collaboration: The program will encourage interdisciplinary collaboration binding public administration, 
+Professional services, healthcare and non-ICT manufacturing. Students will engage with experts from various fields, fostering a 
+holistic understanding of the challenges and opportunities of interconnected systems in the context of the selected study specialization.
+Ethics and Responsible Innovation: Emphasizing ethical considerations, the program will encourage students to adopt responsible 
+practices in technology development and management. Graduates will be led by focusing on inclusivity, fairness, and ethical AI deployment.
+
+Correspondence to industry trends
+
+To describe the alignment of the Study Program with future trends, the Study Program Development Working Group carried out several tasks:
+Research of SCOPUS Scientific Publication Database: 
+This was aimed at discovering changes in the volume of publications starting from 2012, 
+indicating trends in scientific research and thus characterizing the future knowledge needs of the workforce. 
+More details on this are mentioned in the previous section.
+Survey of Foreign and Latvian Companies: 
+This survey aimed to identify the future knowledge requirements of employees, reflecting the current views of 
+the surveyed companies on future needs. More details on this are mentioned in the previous section.
+Analysis of Existing Planning Documents: 
+This was done to uncover the demands of political and economic development programs for the future workforce. 
+Specific theses and trends emphasized in these documents are discussed below.
+The OECD Economic Policy Reforms 2019: 
+Going for Growth and the EC Digital Economy and Society Index Report 2020 highlight the crucial role of digitalization in 
+future society, particularly technologies such as artificial intelligence, robotics, big data, and the Internet of Things. 
+The development of these technologies necessitates an expansion of data usage skills, understanding of cybersecurity and 
+privacy technical and legal aspects, as well as safe and productive technology usage overall.
+The recent COVID-19 pandemic, as indicated in the EU digitalization overview "Digitalization of Europe" 
+(Digitalisation in Europe 2021-2022), has accelerated the digital transformation of the European economy. 
+Before the pandemic, the most advanced digital technologies were primarily used by the most innovative and modern companies. 
+The COVID-19 crisis brought digital transformation to a broader society and made digitalization an essential component of company survival. 
+Almost half of the EU companies participating in the EIB Investment Survey (EIBIS) in 2021 responded to the pandemic by 
+investing in digitalization. Thus, it can be easily concluded that EU companies are now significantly more open to digital 
+transformation, requiring employees who understand the management and leadership of the changes brought by digital transformation.
+To ensure that the content, teaching methods, and competencies required for future study programs are met, 
+leading global ICT professional organizations, such as ACM (Association for Computing Machinery), 
+IEEE (Institute of Electrical and Electronics Engineers), AIS (Association for Information Systems), 
+IFIP (International Federation for Information Processing), and BCS (British Computer Society),
+have introduced a series of requirements for study program accreditation and standard guidelines. 
+These largely stem from the initial recommendations provided by ACM’s “Computing Curricula 2020,” 
+emphasizing interdisciplinarity, transversal competencies, and the ability of graduates to operate effectively, 
+skillfully, and ethically, making a significant contribution to the development and well-being of society.
+Taking into account these recommendations, as well as the insights from the analysis of the aforementioned sources and trends, 
+a need was identified to create an interdisciplinary master's study program in Latvia. This program aims to provide the Latvian 
+labor market with specialists possessing deep enough knowledge, skills, and personal attitudes to manage and lead companies' 
+digital transformation processes and achieve significant work efficiency improvements within organizations.
+The Study Program is designed in accordance with the RTU Development Program for 2023-2027. 
+Its implementers, the Faculty of Computer Science, Information Technology, and Energy (Faculty of Computer Science, Information Technology and Energy) and Riga Business School, complement each other with the content, 
+pedagogical methods, and vision of the Study Program. Faculty of Computer Science, Information Technology and Energy’s vision is to become an internationally recognized institution of 
+science and innovation in computer science and information technology, creating synergy with Riga Business School's vision to make Latvia 
+(especially its capital, Riga) a crossroads of regional economic activities in collaboration with the business environment, 
+government, international partners, and local society.
+To ensure the latest and future trends are adhered to and that scientific achievements are accessible to the Study Program's students, 
+the content of the Study Program will be rooted in Riga Technical University's (RTU) research excellence strategy, 
+harmonized with the research priority directions identified by “Digital Europe” and the guidelines of “Europe’s Digital Decade: digital targets for 2030”:
+Artificial Intelligence: Special attention is given to the processing of large volumes of data and machine learning technologies.
+Cybersecurity: Special attention is given to the use of data analysis and machine learning methods in cybersecurity and the analysis of distributed systems.
+High-Performance Computing: Ensures the implementation of research in artificial intelligence, cybersecurity, and digital transformation.
+Digital Transformation: The transformation and adaptation of organizations to leverage technology in everyday operations, development, and innovation.
+In terms of the program's implementation, it is designed to:
+Provide students with widely applicable knowledge necessary for research and successful application of obtained data in practical work.
+Allow students to deeply explore topics relevant to their educational needs and personal growth, creating a personalized study program with broad elective options.
+Promote mutual cooperation among students, integration into research processes, and international mobility.
+Strengthen university and business cooperation for the practical implementation of scientific research results.
+The programme has been compared to programs of other universities. The provided comparison shows that the Study Program conceptually aligns with the current 
+higher education paradigm—developing and enhancing interdisciplinary competencies, integrating the improvement of research and business skills in these processes.
+A significant feature of the reviewed master's study programs is the creation of specialized study courses to expand the implementation of 
+ICT solutions and digital transformation in as many economic sectors as possible. This aims to create competencies in students to lead society 
+towards more sustainable development, as sustainable development is an integral part of all study programs.
+
+Privisions
+
+The Study Program will be jointly implemented by Faculty of Computer Science, Information Technology and Energy and Riga Business School. The competencies and capacities of both RTU departments in the chosen fields of 
+study—computer science and management science—are sufficient and sustainable.
+Both departments together provide about 450 academic staff, of which around 250 are elected academic staff, including professors, associate professors, 
+docents, leading researchers, and researchers who are actively involved in scientific research processes, academic development, and quality assurance processes. 
+At least 20 of these faculty members have undergone academic development training at the University at Buffalo for at least four months (several for eight months).
+Additionally, the Study Program is being developed within an international consortium that includes higher education institutions from Spain, Estonia, Latvia, 
+and Lithuania, as well as companies representing various fields such as human resource management, e-learning platforms, Internet of Things technologies, and more. 
+The consortium will provide not only advisory roles but also practical support and synergy in areas where needed, offering material and technical resources, 
+pedagogical, and management capacities. This collaboration is planned within the framework of the MERIT project.
+The daily study base is also supported by RTU staff (program directors, study program coordinators, IT and computer system administrators and user support 
+specialists, librarians, clerks/registrars, etc.) and relevant administrative processes. These ensure systematic and continuous quality management, 
+monitoring of student feedback, and the administration of essential study processes such as student record keeping, accounting, examination management, and more.
+To ensure the study process meets contemporary quality standards, RTU and the departments involved in the implementation of the study programs provide:
+Teaching spaces totaling at least 12,000 m² (excluding corridors, utility rooms, and other non-study-related spaces). 
+These spaces are available at two study locations—Skolas Street 11 and the Ķīpsala complex in Riga. Riga Business School's relocation to the Ķīpsala complex is also 
+planned to concentrate students, scientific expertise, and material resources in one place.
+Shared scientific and technical infrastructure, including the Design Factory equipment, primarily intended for the practical realization of 
+student and researcher projects into prototypes.
+Shared high-performance computing center, providing students and researchers access to significant computing and data storage resources essential 
+for various tasks in artificial intelligence, the Internet of Things, and other fields.
+Common lecture halls and computer labs, used by all students and RTU study programs, including the one described here. 
+Faculty of Computer Science, Information Technology and Energy and Riga Business School maintain exclusive computer labs within these departments—at least 8 x 27 workstations each, equipped with necessary resources, virtual machines, 
+and other software for a flexible and efficient study process.
+Student workspaces and places for extracurricular activities, including student self-government rooms, relaxation corners, shared workspaces located in 
+Faculty of Computer Science, Information Technology and Energy and Riga Business School, allowing daily work to be supplemented with networking, discussions, group work, and independent work components. 
+This includes the RTU scientific library, available to students 24/7, providing a comfortable work environment, access to resources, internet connections, 
+and other necessary infrastructure for studies.
+Multiple channels are used to ensure the availability of teaching materials—ORTUS (RTU's internal study management system) (RTU’s internal study and work management system), 
+a Moodle-based e-learning environment, as well as other task-specific channels such as software development and automatic checking environments, 
+Jupyter Notebooks type tools, GitHub, RTU study email system, and other tools specific to particular tasks.
+
+Implementation
+
+The total volume of the Study Program is 120 ECTS, of which 36 ECTS are compulsory courses, 48 ECTS are specialization courses, 
+and 6 ECTS (4 CP) are dedicated to free electives. Additionally, 30 ECTS are allocated for the master's thesis development. 
+According to the specifics of the Study Program, all courses can be categorized into thematic groups:
+
+Compulsory Courses:
+Fundamentals of Occupational Safety
+Digital Strategy for Organizational Transformation
+Research Methods and Proposal Writing
+Fundamentals of Cybersecurity Management
+Information Technology Management
+Artificial Intelligence in Business Applications
+Decision Making and Probabilistic Reasoning
+
+Advanced Knowledge Segments:
+This group consists of specialization courses humanities and social science courses, and free elective courses:
+Legal Aspects of Digitalization
+Organizational and Human Resource Management
+Free elective courses amounting to 6 ECTS
+
+Specialized Courses of specialization courses sets, allowing students to choose one of four specialization directions:
+
+Public Administration:
+Public e-Services
+Data Spaces
+Digital Platforms and Business Models
+Innovation Ecosystem Formation and Management
+IT Quality Assurance
+Economic Analysis of Technological Changes
+
+Professional Services - Audit, Accounting, IT Audit/Planning, Insurance:
+Digital Platforms and Business Models
+Innovation Ecosystem Formation and Management
+IT Quality Assurance
+Economic Analysis of Technological Changes
+Business Analytics
+Business Process Development and Management
+
+Healthcare:
+Data Spaces
+Digital Platforms and Business Models
+Artificial Intelligence in Healthcare
+Software Automation in Healthcare
+Information Security and Protection in Health and Social Care
+Healthcare Data Processing and Management
+
+Non-IT Related Manufacturing:
+Data Spaces
+Digital Platforms and Business Models
+IT Quality Assurance
+IT Systems Architecture and Internet of Things
+Robotics and Process Automation
+AI-Driven Process Management Systems
+These thematic groups are not considered fixed modules of the Study Program. 
+The courses of the Study Program can be arranged into multiple modular systems to flexibly meet labor market 
+demands and, if necessary, facilitate collaboration with similar study programs at universities in other countries.
+
+Respecting international experience and best practices in creating an effective and diverse study environment, e-learning elements will be widely used. This will foster integration into the study environment and enable the implementation of the following student-centered approach elements:
+
+Student Involvement in the Improvement of Study Process and Content
+
+According to RTU's established procedures, students of the study program have opportunities to regularly provide feedback on the study content. In addition to formal processes (surveys), regular meetings are held with the program director to discuss the study content and quality. Students can also approach the program director or the RTU Study Department anonymously at any time to report issues encountered during their studies.
+
+Study Outcomes
+
+The course descriptions in the study program define the appropriate set of knowledge, skills, and competencies, and their assessment system. Learning outcomes, for which credit points are awarded, are clearly defined. The procedure for assessing students' knowledge, skills, and competencies at RTU is determined by the "Study Results Assessment Regulation," which complies with the basic principles and procedures for education assessment defined in the Cabinet of Ministers' regulations at the respective study level.
+
+Mobility and International Transfer of Knowledge and Skills
+
+RTU offers extensive opportunities for international mobility:
+
+ERASMUS+ program
+Nordtek and Baltech programs
+Specialized cooperation programs
+Student project funding
+Opportunities to engage in scientific research (RTU has a relatively high number of students involved in research projects)
+RTU collaborates widely with leading universities worldwide, such as the Massachusetts Institute of Technology, the University at Buffalo, and Harvard University. This provides additional opportunities to adopt international best practices in studies and research, as well as in the development and valorization of innovative products.
+
+In addition to individual ERASMUS+ grants, students can also participate in international ERASMUS+ projects, 
+where they can learn about the culture, working style, and infrastructure of universities and companies in other countries. 
+These projects also involve faculty members, providing opportunities to enhance their professional and pedagogical competencies. 
+RTU regularly invites guest lecturers who share their experiences with students through guest lectures or entire courses.
+
+Social Support and Inclusion
+
+RTU has established student support services provided by RTU Student Services, including psychological help. 
+The student self-government at RBS and DITEF can directly assist students in integrating into the study process and provide other 
+types of support. Studies are planned in a multicultural environment, attracting both Latvian and foreign students, 
+including ERASMUS+ students. This allows the development of various social skills, especially within the framework of team or group work.
+
+Study Methods and Academic Support
+Classes are planned to be organized both in classrooms and computer labs, as well as remotely. Students can receive consultations 
+in accordance with the methodology approved by the RTU rector’s order "On Guidelines for Planning the Work of Academic Staff," 
+which stipulates that academic staff must provide consultations for every 25 students in the lecture stream, amounting to 15% of 
+the total lecture hours, as well as consultations for supervising final works. Pre-exam consultations are planned before examinations. 
+According to current practice, academic staff also provide individual consultations on course-specific issues. If necessary, 
+students can directly contact the academic staff outside consultation hours by sending relevant questions through messages or the 
+appropriate course forum in the ORTUS (RTU's internal study management system) system. The study process employs learning and teaching methods dominated by an active, 
+problem-centered, and student-centered approach (e.g., theoretical material presented in lecture form, application of material 
+in group work, joint result analysis, application of material in an individual context, independent learning of material, tests, 
+discussion of test results, theoretical material learning from video lectures, experiments under instructor supervision, 
+result discussions, structured literature analysis on a chosen topic, simplified scientific paper development, paper upload to 
+conference management system, reviewing other students' papers, paper presentation, discussion, project development and presentation, etc.).
+Significant attention will be paid to collaboration with companies and government institutions, drawing on RTU’s previous positive 
+experience, e.g., RBS master's students' visits to companies and government institutions, events of the Innovation Academy, 
+networking, and search for new ideas.
+
+Study Environment
+In addition to the previously mentioned study and research infrastructure, RTU uses virtualized work environments suitable for 
+both practical and individual work, as well as independent work. Enhanced with modern software and collaboration tools such as ZOOM, 
+Office 365, etc., a diverse and highly productive learning environment is ensured.
+
+Development of Academic Staff Competencies
+Courses and seminars on the latest teaching and pedagogical methods are organized for academic staff. Besides the possibility 
+of paid academic leave, RTU covers the cost of pedagogical and scientific development courses. The RTU Center for Academic Excellence 
+organizes professional development activities for academic staff on "Transformative Digital Pedagogy in Higher Education," 
+and materials for independent qualification improvement are available.
+In cooperation with the University at Buffalo (UB), academic staff have the opportunity to intern in the USA, which several 
+program faculty members have utilized to take relevant communication, pedagogical, and other courses at this university for one or 
+two semesters. Additionally, involvement in academic work is organized to strengthen the application skills of the acquired methods 
+in working with students.
+
+Extracurricular Activities for Students and Alumni Contributions
+The study program will offer a wide range of extracurricular activities (sports, dance, choir, etc.) and opportunities to conduct 
+research, create, and implement innovative solutions. To foster the development of students' scientific thinking, an annual Student 
+Scientific and Technical Conference is organized, providing the opportunity to participate in scientific discussions and present 
+their developments and research results.
+To strengthen the student community, the experience of the RTU Alumni Association and RBS in engaging alumni through various 
+events and activities will be utilized. One of the best practice examples is the RBS-organized podcasts featuring alumni who share 
+their professional and personal experiences, including in the ICT field, as well as other RTU Alumni activities.
+The study program is planned to be developed based on a modular principle, i.e., according to the flow of study topics, modules 
+are formed that replace each other throughout the semester. Each module is planned for a specific period, occupying a typical 
+interval in the day, thus increasing flexibility and interchangeability, as well as compatibility with partner universities 
+in the MERIT project. The ECTS volume of study courses is harmonized with the volume implemented by MERIT partners, 
+thus increasing collaboration opportunities and mutual synergy. The study program will be implemented as a full-time evening 
+study program, with the intended plan indicated in Annex 3.
+The assessment of study outcomes at RTU is conducted in accordance with the "Study Results Assessment Regulation."
+The specific assessment criteria for each course are introduced to students in the first session and must also be published in 
+the e-learning environment of the course on the RTU portal ORTUS (RTU's internal study management system).
+To adhere to the fundamental principles of research-based studies and strengthen students’ independent research skills, 
+several courses require independent exploration of scientific insights, and the final work must demonstrate research skills 
+in line with the current level of scientific thought and technology development. According to current RTU regulations and practices, 
+final works are presented publicly, ensuring a discussion segment where students must demonstrate skills in open and reasoned discussion.
